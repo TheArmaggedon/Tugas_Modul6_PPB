@@ -1,0 +1,31 @@
+
+/* Detail.css */
+.detail-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .detail-title {
+    font-size: 40px;
+    font-weight: bold;
+    color : yellow;
+  }
+  
+  .detail-description {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    color : yellow;
+  }
+  
+  .detail-image {
+    max-width: 25%;
+    margin-top: 20px;
+  }
+  .detail-genre {
+    font-size: 20px;
+    padding-top: 5px;
+    color: black;
+  
+  }
+  
